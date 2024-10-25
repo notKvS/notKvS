@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KunwarVSuryavanshi&&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=notKvS&&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
 
 </div>
 
