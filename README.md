@@ -3,7 +3,7 @@
 # Why, hello there 👋
 
 #### Who am I? Just another developer who is trying and figuring out things like you :wink:
-#### Feel free to explore the <a href="https://github.com/KunwarVSuryavanshi?tab=repositories">projects</a> that I have worked on.
+#### Feel free to explore the <a href="https://github.com/notKvS?tab=repositories">projects</a> that I have worked on.
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/KunwarVSuryavanshi/count.svg" />
+  <img src="https://profile-counter.glitch.me/notKvS/count.svg" />
 </p>
 
 </div>
