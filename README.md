@@ -3,6 +3,7 @@
 # Why, hello there 👋
 
 #### Who am I? Just another developer who is trying and figuring out things like you :wink:
+
 #### Feel free to explore the <a href="https://github.com/notKvS?tab=repositories">projects</a> that I have worked on.
 
 </div>
@@ -16,15 +17,12 @@
 
 </div>
 
-<div>
+<div align="center">
 
 <br/>
 <br/>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/notKvS/count.svg" />
-</p>
+![me](https://media.tenor.com/XMAAboIjxcAAAAAj/oshi-no-ko-kana-arima.gif)
 
 </div>
 
@@ -36,6 +34,6 @@
 
 <div align="center">
 
-#### Show some ❤️ by starring some of the repositories! :sweat_smile:
+#### Show some ❤️ by starring some of the repositories for my developer ego! 😤
 
 </div>
