@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-![me](https://media.tenor.com/XMAAboIjxcAAAAAj/oshi-no-ko-kana-arima.gif)
+![me](./blob/oshi-no-ko-kana-arima.gif)
 
 </div>
 
