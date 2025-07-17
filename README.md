@@ -17,23 +17,32 @@
 
 </div>
 
+
+
+
+
 <div align="center">
 
 <br/>
 <br/>
 
-![me](./blob/oshi-no-ko-kana-arima.gif)
+<!-- ![me](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJicjZtZmN4YmNiOG00NzJ5ZTNyc3pyM2VrcHNweW5yd3F5cjk1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif) -->
 
-</div>
-
-<div align="center">
-
-#### `We are all like fireworks: We climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine… forever.” — Hitsugaya Toshiro`
+![me](https://i.giphy.com/3ohc0YpD0LR5wRyz1S.webp)
 
 </div>
 
 <div align="center">
 
 #### Show some ❤️ by starring some of the repositories for my developer ego! 😤
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+#### `We are all like fireworks: We climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine… forever.” — Hitsugaya Toshiro`
 
 </div>
